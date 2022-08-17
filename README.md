@@ -20,3 +20,9 @@ Optuna??
 
 ＜サンプルデータ＞
 https://github.com/aws-samples/amazon-forecast-samples/tree/main/notebooks/advanced/Item_Level_Explainability/InstrumentData
+
+
+
+Autopilotを試す、比較する
+GluonTSを試す、比較する
+Dartsを試す、比較する
